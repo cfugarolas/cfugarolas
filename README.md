@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hola, sóc Carles Fugarolas!
 
-<!--
-**cfugarolas/cfugarolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Sobre mi
+Actualment treballo com a **informàtic a l’Ajuntament de Cabrils** i també com a **professor de formació professional a l’Escola Pia de Mataró**.  
+La meva passió per la tecnologia m’ha portat a continuar aprenent i actualment estic cursant un **grau en Ciberseguretat**.
 
-Here are some ideas to get you started:
+## 🎯 Objectius del meu GitHub
+Aquest espai està pensat per:
+- Compartir **petits tutorials** i **píndoles formatives** relacionades amb la informàtica i la ciberseguretat.  
+- Publicar **exemples pràctics** i **recursos docents** per a estudiants i professionals.  
+- Explorar i compartir **bones pràctiques de seguretat informàtica**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Interessos
+- 💡 Ciberseguretat i privadesa digital  
+- ⚙️ Sistemes operatius (Linux, Windows)  
+- 🧠 Programació i automatització  
+- ☁️ Tecnologies web i administració de sistemes Operatius
+
+## 🛠️ Eines i tecnologies que faig servir
+- **Llenguatges:** Python, Bash, HTML/CSS, Java  
+- **Entorns:** Linux, Docker, Proxmox  
+- **Altres:** Git, GitHub, VirtualBox, Wireshark, Wasuh, Fortinet  
+
+## 📚 Compartint coneixement
+La meva idea és crear un espai obert i col·laboratiu on qualsevol pugui aprendre a través de continguts senzills, curts i pràctics.  
+Si t’interessa el món de la ciberseguretat o l’educació tecnològica, t’animo a seguir els meus repositoris i participar-hi! 🚀  
+
+---
+
+> _"Aprendre, compartir i créixer és la millor forma d’entendre la tecnologia."_  
+
+📫 **Contacte:**  
+- ✉️ [carlesfugarolas@gmail.com]
+
