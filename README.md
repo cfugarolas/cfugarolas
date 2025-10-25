@@ -30,5 +30,5 @@ Si t’interessa el món de la ciberseguretat o l’educació tecnològica, t’
 > _"Aprendre, compartir i créixer és la millor forma d’entendre la tecnologia."_  
 
 📫 **Contacte:**  
-- ✉️ [carlesfugarolas@gmail.com]
+- ✉️ carlesfugarolas@gmail.com
 
