@@ -17,9 +17,9 @@ Aquest espai està pensat per:
 - ☁️ Tecnologies web i administració de sistemes Operatius
 
 ## 🛠️ Eines i tecnologies que faig servir
-- **Llenguatges:** Python, Bash, HTML/CSS, Java  
-- **Entorns:** Linux, Docker, Proxmox  
-- **Altres:** Git, GitHub, VirtualBox, Wireshark, Wasuh, Fortinet  
+- **Llenguatges:** Bash, HTML/CSS, Java, SQL, Markdown  
+- **Entorns:** Linux, Windows, Docker, Proxmox  
+- **Altres:** Git, GitHub, VirtualBox, Wireshark, Wazuh, Fortinet  
 
 ## 📚 Compartint coneixement
 La meva idea és crear un espai obert i col·laboratiu on qualsevol pugui aprendre a través de continguts senzills, curts i pràctics.  
