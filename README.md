@@ -1,4 +1,4 @@
-# 👋 Hola, sóc Carles Fugarolas!
+# 👋 Hola, sóc en Carles Fugarolas!
 
 ## 💻 Sobre mi
 Actualment treballo com a **informàtic a l’Ajuntament de Cabrils** i també com a **professor de formació professional a l’Escola Pia de Mataró**.  
