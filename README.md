@@ -1,7 +1,7 @@
 # 👋 Hola, sóc en Carles Fugarolas!
 
 ## 💻 Sobre mi
-Actualment treballo com a **informàtic** i també com a **professor de formació professional a l’Escola Pia de Mataró**.  
+Actualment treballo com a **informàtic** i també com a **professor de formació professional**.  
 La meva passió per la tecnologia m’ha portat a continuar aprenent i actualment estic cursant un **grau en Ciberseguretat**.
 
 ## 🎯 Objectius del meu GitHub
