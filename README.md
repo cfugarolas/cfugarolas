@@ -1,7 +1,7 @@
 # 👋 Hola, sóc en Carles Fugarolas!
 
 ## 💻 Sobre mi
-Actualment treballo com a **informàtic a l’Ajuntament de Cabrils** i també com a **professor de formació professional a l’Escola Pia de Mataró**.  
+Actualment treballo com a **informàtic** i també com a **professor de formació professional a l’Escola Pia de Mataró**.  
 La meva passió per la tecnologia m’ha portat a continuar aprenent i actualment estic cursant un **grau en Ciberseguretat**.
 
 ## 🎯 Objectius del meu GitHub
@@ -29,6 +29,4 @@ Si t’interessa el món de la ciberseguretat o l’educació tecnològica, t’
 
 > _"Aprendre, compartir i créixer és la millor forma d’entendre la tecnologia."_  
 
-📫 **Contacte:**  
-- ✉️ carlesfugarolas@gmail.com
 
