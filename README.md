@@ -1,7 +1,7 @@
 # Hola, soc en Carles Fugarolas 👋
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="Banner de Carles Fugarolas: informatica i ciberseguretat" width="100%">
+  <img src="./assets/banner.svg?v=2" alt="Banner de Carles Fugarolas: informàtica i ciberseguretat" width="100%">
 </p>
 
 [![Seguidors](https://img.shields.io/github/followers/cfugarolas?label=Seguidors&style=for-the-badge&logo=github&color=181717)](https://github.com/cfugarolas)
